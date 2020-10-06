@@ -1,0 +1,2 @@
+Primeiro arquivo criado na pasta do Ubuntu e seguindo o passo a passo da Trybe
+Para utilizar o Github
